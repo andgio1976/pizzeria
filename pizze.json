@@ -6,5 +6,45 @@
     ],
     "Prezzo":7.9,
     "foto":""
+  },
+    {
+    "nome":"Pizza 4 Formaggi",
+    "ingredienti":[
+      "farina","Lievito","Mozzarella","Pomodoro","Gorgonzola","Fontina"
+    ],
+    "Prezzo":9.9,
+    "foto":""
+  },
+    {
+    "nome":"Pizza Diavola",
+    "ingredienti":[
+      "farina","Lievito","Mozzarella","Pomodoro","Salame Piccante"
+    ],
+    "Prezzo":8.5,
+    "foto":""
+  },
+    {
+    "nome":"Pizza 4 Stagioni",
+    "ingredienti":[
+      "farina","Lievito","Mozzarella","Pomodoro","Carciofi","Peperoni"
+    ],
+    "Prezzo":8.8,
+    "foto":""
+  },
+    {
+    "nome":"Pizza al Tonno",
+    "ingredienti":[
+      "farina","Lievito","Mozzarella","Pomodoro","Tonno"
+    ],
+    "Prezzo":10,
+    "foto":""
+  },
+    {
+    "nome":"Pizza Alla Nutella",
+    "ingredienti":[
+      "farina","Lievito","Mozzarella","Pomodoro","Nutella"
+    ],
+    "Prezzo":7.9,
+    "foto":""
   }
 ]
