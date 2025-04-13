@@ -1,1 +1,10 @@
-
+[
+  {
+    "nome":"Pizza Marghetira",
+    "ingredienti":[
+      "farina","Lievito","Mozzarella","Pomodoro"
+    ],
+    "Prezzo":7.9,
+    "foto":""
+  }
+]
