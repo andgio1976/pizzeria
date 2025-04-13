@@ -5,7 +5,7 @@
       "farina","Lievito","Mozzarella","Pomodoro"
     ],
     "Prezzo":7.9,
-    "foto":""
+    "foto":"https://www.giallozafferano.it/images/238-23809/Pizza-Margherita_450x300.jpg"
   },
     {
     "nome":"Pizza 4 Formaggi",
@@ -13,7 +13,7 @@
       "farina","Lievito","Mozzarella","Pomodoro","Gorgonzola","Fontina"
     ],
     "Prezzo":9.9,
-    "foto":""
+    "foto":"https://www.giallozafferano.it/images/9-909/Pizza-pere-e-brie_780x520_wm.jpg"
   },
     {
     "nome":"Pizza Diavola",
@@ -21,15 +21,15 @@
       "farina","Lievito","Mozzarella","Pomodoro","Salame Piccante"
     ],
     "Prezzo":8.5,
-    "foto":""
+    "foto":"https://www.giallozafferano.it/images/282-28252/Pizza-alla-diavola_780x520_wm.jpg"
   },
     {
-    "nome":"Pizza 4 Stagioni",
+    "nome":"Pizza alla Romana",
     "ingredienti":[
       "farina","Lievito","Mozzarella","Pomodoro","Carciofi","Peperoni"
     ],
     "Prezzo":8.8,
-    "foto":""
+    "foto":"https://www.giallozafferano.it/images/5-560/Pizza-Romana_780x520_wm.jpg"
   },
     {
     "nome":"Pizza al Tonno",
@@ -37,7 +37,7 @@
       "farina","Lievito","Mozzarella","Pomodoro","Tonno"
     ],
     "Prezzo":10,
-    "foto":""
+    "foto":"https://www.ristorantelespecialita.it/wp-content/uploads/2017/12/pizza-al-tonno.jpg"
   },
     {
     "nome":"Pizza Alla Nutella",
